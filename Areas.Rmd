@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
 #Área círculo
 r <- 0.5
 Area <- pi*r**2
@@ -22,3 +21,7 @@ AreaCuadrado <- Lado**2
 # Área triángulo
 b <- 10; h <- 5
 AreaTriangulo <- (b*h)/2
+
+# Área rectángulo
+b_rect <- 10; h_rect <- 5
+AreaRectangulo <- b_rect * h_rect
