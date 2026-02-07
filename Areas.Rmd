@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-#Área círculo
+# Área círculo
 r <- 0.5
 Area <- pi*r**2
 
