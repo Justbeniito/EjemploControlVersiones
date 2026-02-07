@@ -1,0 +1,19 @@
+---
+title: "Areas.Rmd"
+author: "Just Benito"
+date: "2026-02-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+#Área círculo
+r <- 0.5
+Area <- pi*r**2
+```
+
